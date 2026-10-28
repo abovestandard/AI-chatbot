@@ -22,8 +22,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 }
 
-echo "Hello from AI Assistant Bot!1";
-
 define( 'AIAB_VERSION', '1.5.8' );
 
 define( 'AIAB_PATH', plugin_dir_path( __FILE__ ) );
